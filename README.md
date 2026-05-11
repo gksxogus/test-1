@@ -30,9 +30,10 @@
 
 ## 링크 입력하기
 
-링크를 입력할 수 있습니다...
+링크를 입력할 수 있습니다
 
-[Instagram](https://instagram.com/xogus_0401 "인스타그램 주소")
+1. [Instagram](https://instagram.com/xogus_0401 "인스타그램 주소")
+2. [GitHub](https://github.com/gksxogus "깃허브 주소")
 
 중간에 [링크](https://velog.velcdn.com/images/tkjung/post/70b11d13-ac66-4da0-8b64-2ffda9b866fa/image.png "이미지주소 테스트")를 넣을 수도 있습니다,,,
 

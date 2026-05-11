@@ -45,3 +45,5 @@ public class Main {
         System.out.println("Hello, World!");
     }
 }
+```
+<img width="1280" height="640" alt="HelloWorld" src="https://github.com/user-attachments/assets/bb195c50-512b-4503-8618-58ab98b346e2" />
